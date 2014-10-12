@@ -1,4 +1,4 @@
-<h3>This android-based project is the hackathon implementation for the Coffee Cart App as per the requirements of Downtown Streets Team (NGO).<h3>
+<h3>This android-based project is the hackathon implementation for the Coffee Cart App as per the requirements of Downtown Streets Team (NPO).<h3>
 
 <p>The project has following dependencies</p>
 <ol>
